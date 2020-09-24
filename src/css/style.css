@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body,
+input,
+textarea,
+select,
+option {
+  font-family: 'Poppins';
+  font-size: 14px;
+  color: #000000;
+}
+.container {
+    max-width: 1012px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.headerContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.first_header_text {
+    font-family: 'Poppins';
+    font-size: 29px;
+    font-weight: 700;
+}
+
+.second_header_text {
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 400;
+}
+.third_header_text {
+    font-family: 'Poppins';
+    font-size: 18px;
+    font-weight: 400;
+}
